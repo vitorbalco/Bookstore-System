@@ -1,4 +1,4 @@
-# BookFlow-CLI 📚
+# LibrarySystem-CLI 📚
 
 > Sistema de gerenciamento de acervo literário desenvolvido em Python, focado na demonstração de lógica de programação e estruturação de software via terminal.
 
@@ -29,7 +29,7 @@ Como este projeto prioriza a arquitetura lógica, os seguintes pontos foram impl
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/vitorbalco/BookFlow-CLI.git](https://github.com/vitorbalco/BookFlow-CLI.git)
+   git clone [https://github.com/vitorbalco/LibrarySystem-CLI.git](https://github.com/vitorbalco/LibrarySystem-CLI.git)
 
 
 ## Acesse a pasta do projeto e execute:
