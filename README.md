@@ -1,4 +1,4 @@
-# LibrarySystem-CLI 📚
+# Bookstore-System 📚
 
 > Sistema de gerenciamento de acervo literário desenvolvido em Python, focado na demonstração de lógica de programação e estruturação de software via terminal.
 
@@ -29,12 +29,12 @@ Como este projeto prioriza a arquitetura lógica, os seguintes pontos foram impl
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/vitorbalco/LibrarySystem-CLI.git](https://github.com/vitorbalco/LibrarySystem-CLI.git)
+   git clone [https://github.com/vitorbalco/Bookstore-System.git](https://github.com/vitorbalco/Bookstore-System.git)
 
 
 ## Acesse a pasta do projeto e execute:
 ```Bash
-cd BookFlow-CLI
+cd Bookstore-System
     python main.py
 ```
 ---
